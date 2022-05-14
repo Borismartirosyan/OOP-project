@@ -1,0 +1,15 @@
+An unmanned aerial vehicle (UAV) is defined as a "powered, aerial vehicle that does not carry a
+human operator, uses aerodynamic forces to provide vehicle lift, can fly autonomously or be
+piloted remotely, can be expendable or recoverable, and can carry a lethal or nonlethal payload".
+UAV is a term that is commonly applied to military use cases. However missiles with warheads are
+not considered UAVs because the vehicle itself is a munition. The term unmanned aircraft system
+was adopted by the United States Department of Defense (DoD) and the United States Federal
+Aviation Administration (FAA) in 2005 according to their Unmanned Aircraft System Roadmap
+2005–2030. The International Civil Aviation Organization (ICAO) and the British Civil Aviation
+Authority adopted this term, also used in the European Union's Single-European-Sky (SES)
+Air-Traffic-Management (ATM) Research (SESAR Joint Undertaking) roadmap for 2020. This term
+emphasizes the importance of elements other than the aircraft. It includes elements such as
+ground control stations, data links and other support equipment. A similar term is an
+unmanned-aircraft vehicle system (UAVS), remotely piloted
+aerial vehicle (RPAV), remotely piloted aircraft system (RPAS). Many similar terms are
+in use. "Unoccupied" and "uninhabited" are occasionally used as alternatives to "unmanned".

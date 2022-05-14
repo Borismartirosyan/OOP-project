@@ -1,0 +1,14 @@
+The first true MIRV design was the Minuteman III, first successfully tested in 1968 and introduced
+into actual use in 1970.The Minuteman III held three smaller W62 warheads of about 170 kilotons of
+TNT (710 TJ) each in place of the single 1.2 megatons of TNT (5.0 PJ) W56 used in the earlier
+versions of this missile. From 1970 to 1975, the United States would remove approximately 550
+earlier versions of the Minuteman ICBM in the Strategic Air Command's (SAC) arsenal and replace
+them with the new Minuteman IIIs outfitted with a MIRV payload, increasing their overall
+effectiveness. The smaller power of the warhead was offset by increasing the accuracy of the system,
+allowing it to attack the same hard targets as the larger, less accurate, W56. The MMIII was
+introduced specifically to address the Soviet construction of an anti-ballistic missile (ABM)
+system around Moscow; MIRV allowed the US to overwhelm any conceivable ABM system without
+increasing the size of their own missile fleet. The Soviets responded by adding MIRV to their
+R-36 design, first with three warheads in 1975, and eventually up to ten in later versions.
+While the United States phased out the use of MIRVs in 2014 to comply with New START,
+Russia continues to develop new missile designs using the technology.
